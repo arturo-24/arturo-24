@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+  <rect x="0.5" y="0.5" width="1199" height="429" rx="14" fill="#0b0e14" stroke="#1e2530" stroke-width="1"/>
+  
+  <rect x="0.5" y="0.5" width="1199" height="47" rx="13" fill="#10141c"/>
+  <rect x="0.5" y="36" width="1199" height="12" fill="#10141c"/>
+  <circle cx="26" cy="24" r="6.5" fill="#ff5f57"/>
+  <circle cx="46" cy="24" r="6.5" fill="#ffbd2e"/>
+  <circle cx="66" cy="24" r="6.5" fill="#28c840"/>
+  <text x="600.0" y="29" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8b94a3">arturo-24@github: ~ — -zsh</text>
+
+  <text x="48" y="100" font-size="20" xml:space="preserve"><tspan fill="#2dd4bf">arturo-24@github</tspan><tspan fill="#5b6472">:~$ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
+  <text x="48" y="157.8" font-size="30" font-weight="700" fill="#f5f7fa">Arturo Cochea</text>
+  <text x="48" y="196.9" font-size="21" fill="#2dd4bf">Full Stack Developer · Prompt Engineer</text>
+  <text x="48" y="251.3" font-size="20" xml:space="preserve"><tspan fill="#2dd4bf">arturo-24@github</tspan><tspan fill="#5b6472">:~$ </tspan><tspan fill="#e6edf3">cat bio.txt</tspan></text>
+  <text x="48" y="302.3" font-size="19" fill="#9aa4b2" textLength="1092" lengthAdjust="spacingAndGlyphs">Currently studying Software Engineering — background in Marketing.</text>
+  <text x="48" y="356.70000000000005" font-size="20" xml:space="preserve"><tspan fill="#2dd4bf">arturo-24@github</tspan><tspan fill="#5b6472">:~$ </tspan><tspan fill="#2dd4bf">█</tspan></text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="916" height="260" viewBox="0 0 916 260" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+  <rect x="0.5" y="0.5" width="915" height="259" rx="14" fill="#0b0e14" stroke="#1e2530" stroke-width="1"/>
+  
+  <rect x="0.5" y="0.5" width="915" height="47" rx="13" fill="#10141c"/>
+  <rect x="0.5" y="36" width="915" height="12" fill="#10141c"/>
+  <circle cx="26" cy="24" r="6.5" fill="#ff5f57"/>
+  <circle cx="46" cy="24" r="6.5" fill="#ffbd2e"/>
+  <circle cx="66" cy="24" r="6.5" fill="#28c840"/>
+  <text x="458.0" y="29" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8b94a3">arturo-24@github: ~$ ./wordmark.sh --name</text>
+
+  <text x="48" y="90" font-size="20" xml:space="preserve"><tspan fill="#2dd4bf">arturo-24@github</tspan><tspan fill="#5b6472">:~$ </tspan><tspan fill="#e6edf3">./wordmark.sh --name</tspan></text>
+  <text x="48" y="130" font-size="17" fill="#2dd4bf" xml:space="preserve">    _         _   _                ____                  _____     </text>
+  <text x="48" y="152.95" font-size="17" fill="#2dd4bf" xml:space="preserve">   / \   _ __| |_| |__  _   _ _ __|  _ \  _____   __    | ____|___ </text>
+  <text x="48" y="175.89999999999998" font-size="17" fill="#2dd4bf" xml:space="preserve">  / _ \ | '__| __| '_ \| | | | '__| | | |/ _ \ \ / /    |  _| / __|</text>
+  <text x="48" y="198.84999999999997" font-size="17" fill="#2dd4bf" xml:space="preserve"> / ___ \| |  | |_| | | | |_| | |  | |_| |  __/\ V /    _| |__| (__ </text>
+  <text x="48" y="221.79999999999995" font-size="17" fill="#2dd4bf" xml:space="preserve">/_/   \_\_|   \__|_| |_|\__,_|_|  |____/ \___| \_/    (_)_____\___|</text>
+</svg>
