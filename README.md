@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/portrait.svg" alt="Python" width="45%" />
+  <img src="assets/portrait.svg" alt="Tech stack: Python, Docker, Flutter, C#" width="100%" />
 </p>
